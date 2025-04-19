@@ -1,5 +1,5 @@
 # NLP-Preprocessing-And-Text-Classification
-Lab Assignment No. 4- NLP Preprocessing And Text Classificationsing)
+Lab Assignment No. 4- (NLP Preprocessing And Text Classification)
 
 
 ## 1. Objective
@@ -47,7 +47,7 @@ This assignment focuses on applying various Natural Language Processing (NLP) pr
 ---
 
 ## Declaration
-I, **Rutuja Udanshiv**, confirm that the work submitted in this assignment is my own and has been completed following academic integrity guidelines. The code is uploaded on my GitHub repository account, and the repository link is provided below:
+I, **Rutuja Udanshiv**, confirm that the work submitted in this assignment is my own and has been completed following academic integrity guidelines. The code is uploaded on my GitHub repository account, and the repository link is provided below.
 
 
 
